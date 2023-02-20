@@ -1,0 +1,1 @@
+insert into project (name, public, details, author_id, group_id) VALUES ('ivashchenko.kv@gmail.com', false, 'Институт физико-химических и биологических проблем почвоведения РАН', '01GS7JD982GVQVWK2NN59MJMVK', '01GS7JGX66DY10FD15FHB4MG7W')
